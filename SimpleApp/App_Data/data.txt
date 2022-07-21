@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, office
+2, Laptop, 3200, pc
+3, Keyboard, 35, pc
+4, Mouse, 10, pc
+5, Pen, 1, office
+6, Notebook, 1, office
